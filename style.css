@@ -569,6 +569,7 @@ footer{
     /* border: 2px solid blue; */
     display: flex;
     margin-top: 2rem;
+    gap: 2rem;
     /* background-color: red; */
 }
 .social-block a svg{
